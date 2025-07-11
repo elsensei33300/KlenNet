@@ -1,4 +1,4 @@
-# KleNet
+# KlenNet
 
 🌐 Clean the Noise. Control the Web.
 
