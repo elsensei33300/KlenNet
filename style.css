@@ -1,0 +1,35 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9fafb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.login-container {
+  background: white;
+  padding: 2rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+button {
+  padding: 0.6rem 2rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
